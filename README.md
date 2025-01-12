@@ -23,13 +23,16 @@ This project is a frontend application built with React that displays transactio
 ## Snapshots
 
 ### Transactions Table
-![Transactions Table](./snapshots/transactions-table.png)
+![image](https://github.com/user-attachments/assets/65c005c1-2f64-447a-8cac-b75c23e810f6)
+
 
 ### Transactions Statistics
-![Transactions Statistics](./snapshots/transactions-statistics.png)
+![image](https://github.com/user-attachments/assets/87bea37a-7459-40f0-b4cf-5ebcef4b332e)
+
 
 ### Transactions Bar Chart
-![Transactions Bar Chart](./snapshots/transactions-bar-chart.png)
+![image](https://github.com/user-attachments/assets/1571dfb2-0989-446c-b676-a5c4ba98536d)
+
 
 ---
 
